@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://mousom.com/resume](https://mousom.com/resume)
 
-- ⚡ Fun fact **I can make you laugh using my coding creativity 😜**
+- ⚡ Fun fact **creativity of my coding ground is not less than an amusement park 😜**
 
 <h3 align="left">Connect with me:</h3>
 
