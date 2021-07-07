@@ -1,5 +1,4 @@
 
-
 <!--
 **lmousom/lmousom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,21 +33,16 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **creativity of my coding ground is not less than an amusement park 😜**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
+
 
 <p align="left">
 
-<a href="https://linkedin.com/in/latiful-mousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="latiful-mousom" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/mousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mousom" height="30" width="40" /></a>
-
-<a href="https://fb.com/l.mousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="l.mousom" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/mousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mousom" height="30" width="40" /></a>
-
-<a href="https://auth.geeksforgeeks.org/user/latifulmousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="latifulmousom" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/latiful-mousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="latiful-mousom" height="30" width="40" /></a>  <a href="https://fb.com/l.mousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="l.mousom" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/latifulmousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="latifulmousom" height="30" width="40" /></a>  <a href="https://www.leetcode.com/mousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mousom" height="30" width="40" /></a> <a href="https://kaggle.com/mousom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mousom" height="30" width="40" /></a>
+  
+ 
 </p>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 
