@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmousom&label=Profile%20views&color=0e75b6&style=flat" alt="lmousom" /> </p>
 
-- 🔭 I’m currently working on [Digital Education For All in INDIA🇮🇳](#linkcomingsoon...)
+- 🔭 I’m currently working on [Digital Education For All in INDIA 🇮🇳](#linkcomingsoon...)
 
 - 🌱 I’m currently at my 5th Semester **BTech (Information Technology)**
 
