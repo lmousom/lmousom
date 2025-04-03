@@ -8,12 +8,11 @@ I firmly believe in the power of building products that truly understand and cat
 
 ## Community Engagement
 
-Beyond my professional role, I'm an active participant in the tech community. I had the pleasure of attending the Google Developers Community meet-up in Kolkata, which was a fantastic opportunity to connect with like-minded individuals and share knowledge. :contentReference[oaicite:1]{index=1}
+Beyond my professional role, I'm an active participant in the tech community. I had the pleasure of attending the Google Developers Community meet-up in Kolkata, which was a fantastic opportunity to connect with like-minded individuals and share knowledge.
 
 ## Writing and Insights
 
-I enjoy sharing my insights on emerging technologies. For instance, I authored a blog post titled "Serverless, Node.js and Elon Musk: A Match Made in Tech Heaven," where I explored the synergy between serverless computing and modern tech innovations. :contentReference[oaicite:2]{index=2}
-
+I enjoy sharing my insights on emerging technologies. For instance, I authored a blog post titled "Serverless, Node.js and Elon Musk: A Match Made in Tech Heaven," where I explored the synergy between serverless computing and modern tech innovations.
 ## Let's Connect
 
 On GitHub, you'll find a collection of my projects that reflect my commitment to leveraging cutting-edge technologies to solve real-world problems. I'm always eager to collaborate and exchange ideas with fellow developers. Feel free to explore my repositories and connect with me!
