@@ -4,7 +4,7 @@
 
 ## Professional Philosophy
 
-I firmly believe in the power of building products that truly understand and cater to the needs of their end users. This approach not only ensures product success but also enables us as engineers to provide the best possible support to our customers. Building a great product involves both technical expertise and effective team collaboration. Engaging others in your vision is crucial for creating a positive company culture and delivering exceptional results. :contentReference[oaicite:0]{index=0}
+I firmly believe in the power of building products that truly understand and cater to the needs of their end users. This approach not only ensures product success but also enables us as engineers to provide the best possible support to our customers. Building a great product involves both technical expertise and effective team collaboration. Engaging others in your vision is crucial for creating a positive company culture and delivering exceptional results.
 
 ## Community Engagement
 
